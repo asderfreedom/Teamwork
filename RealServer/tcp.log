@@ -1,0 +1,240 @@
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=38760 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=29436 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:64190-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64190-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64190-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64201-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64201-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64201-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64201-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64212-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64212-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64212-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64216-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64216-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64216-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64216-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64221-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64221-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64221-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64225-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64225-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64225-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64225-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64241-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64241-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64241-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64244-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64244-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64244-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64244-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=39288 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:64251-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64251-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64251-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64255-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64255-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64255-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64255-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64332-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64332-[] USER 'anonymous' failed login.
+INFO:pyftpdlib:127.0.0.1:64332-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64335-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64335-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64335-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:64335-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64370-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64370-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64370-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64424-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64424-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64424-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=39668 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:64430-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64430-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64430-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64458-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64458-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64458-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64471-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64471-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64471-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64496-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64496-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:64496-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:64503-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:64503-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:64503-[user] STOR E:\Desktop\spyder\Projects\Server\data\shishijiushishi.png completed=1 bytes=53081 seconds=0.078
+INFO:pyftpdlib:127.0.0.1:64503-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=33300 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=36612 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:51810-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:51810-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=45776 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:51840-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:51840-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:51853-[] FTP session opened (connect)
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=46928 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:51902-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:51902-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52000-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52000-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52029-[] FTP session opened (connect)
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=43564 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:52034-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52034-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=28860 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:52081-[] FTP session opened (connect)
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=47032 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:52092-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52092-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52124-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52124-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=47068 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:52248-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52248-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52355-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52355-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=33720 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:52442-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52442-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52557-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52557-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:52992-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:52992-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:53218-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:53218-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:53268-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:53268-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:53441-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:53441-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:53441-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:53520-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:53520-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:53520-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.046
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=43356 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:53659-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:53659-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:53659-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:53659-[user] RETR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:53659-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=46484 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:55583-[] FTP session opened (connect)
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=46892 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:55623-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:55623-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:55652-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:55652-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:55652-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.062
+INFO:pyftpdlib:127.0.0.1:55652-[user] RETR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:55652-[] Previous account information was flushed, send password.
+INFO:pyftpdlib:127.0.0.1:55652-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:55652-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.015
+INFO:pyftpdlib:127.0.0.1:55652-[user] RETR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:55652-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=3016 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:50405-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:50405-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=4840 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:50458-[] FTP session opened (connect)
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=11392 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:50607-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:50607-[] FTP session closed (disconnect).
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=6528 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=8372 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:>>> starting FTP server on 0.0.0.0:21, pid=2764 <<<
+INFO:pyftpdlib:concurrency model: async
+INFO:pyftpdlib:masquerade (NAT) address: None
+INFO:pyftpdlib:passive ports: 2500->2999
+INFO:pyftpdlib:127.0.0.1:54787-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54787-[] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:54790-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54790-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:54790-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:54797-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54797-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:54797-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:54864-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54864-[guest] USER 'guest' logged in.
+INFO:pyftpdlib:127.0.0.1:54864-[guest] CWD E:\Desktop\spyder\Projects\Server\data\share\67909 550 'Not enough privileges.'
+INFO:pyftpdlib:127.0.0.1:54864-[guest] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:54940-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54940-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:54940-[user] CWD E:\Desktop\spyder\Projects\Server\data\67909 250
+INFO:pyftpdlib:127.0.0.1:54940-[] Previous account information was flushed, send password.
+INFO:pyftpdlib:127.0.0.1:54940-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:54940-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.031
+INFO:pyftpdlib:127.0.0.1:54940-[user] RETR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.015
+INFO:pyftpdlib:127.0.0.1:54940-[] Previous account information was flushed, send password.
+INFO:pyftpdlib:127.0.0.1:54940-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:54940-[user] STOR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:54940-[user] RETR E:\Desktop\spyder\Projects\Server\data\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:54940-[user] FTP session closed (disconnect).
+INFO:pyftpdlib:127.0.0.1:54972-[] FTP session opened (connect)
+INFO:pyftpdlib:127.0.0.1:54972-[user] USER 'user' logged in.
+INFO:pyftpdlib:127.0.0.1:54972-[user] CWD E:\Desktop\spyder\Projects\Server\data\67909 250
+INFO:pyftpdlib:127.0.0.1:54972-[user] STOR E:\Desktop\spyder\Projects\Server\data\67909\cat1.jpg completed=1 bytes=53081 seconds=0.0
+INFO:pyftpdlib:127.0.0.1:54972-[user] RETR E:\Desktop\spyder\Projects\Server\data\67909\cat1.jpg completed=1 bytes=53081 seconds=0.0
